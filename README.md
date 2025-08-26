@@ -5,11 +5,13 @@ Welcome to the **PatternTech Suite** project, developed as part of the course **
 ## Project Overview
 
 ### Phase 1: Classical Algorithms
+
 - **[Principal Component Analysis (PCA)](https://github.com/CodeMaestro1/PatternTech-Suite/tree/main/Phase%201/exercise1_1)**: A technique for dimensionality reduction and feature extraction.
 - **[Linear Discriminant Analysis (LDA)](https://github.com/CodeMaestro1/PatternTech-Suite/tree/main/Phase%201/exercise1_3)**: A method used for classification and dimensionality reduction.
 - **[Bayes Classification](https://github.com/CodeMaestro1/PatternTech-Suite/tree/main/Phase%201/exercise1_5)**: An approach based on Bayes' theorem for probabilistic classification.
 
 ### Phase 2: Advanced Techniques
+
 - **[Perceptron](https://github.com/CodeMaestro1/PatternTech-Suite/tree/main/Phase%202/exercise2_1)**: A foundational neural network model used for binary classification.
 - **[Convolutional Neural Networks (CNNs)](https://github.com/CodeMaestro1/PatternTech-Suite/tree/main/Phase%202/exercise2_5b)**: Advanced neural networks designed for image and spatial data processing.
 - **[Maximum Likelihood Estimation (MLE)](https://github.com/CodeMaestro1/PatternTech-Suite/tree/main/Phase%202/exercise2_3)**: A method for estimating model parameters.
@@ -17,7 +19,12 @@ Welcome to the **PatternTech Suite** project, developed as part of the course **
 
 ## Report
 
-The detailed project report is currently available in Greek. An English version will be provided soon.
+The detailed project report is available in both Greek and English:
+
+- [Greek Report_1 (PDF)](https://github.com/CodeMaestro1/PatternTech-Suite/blob/main/Phase%201/THL311_Exercise_1.pdf)
+- [Greek Report_2 (PDF)](https://github.com/CodeMaestro1/PatternTech-Suite/blob/main/Phase%202/THL311_Exercise_2.pdf)
+- [English Report (PDF)](https://github.com/CodeMaestro1/PatternTech-Suite/blob/main/Phase%201/THL311_Exercise_1_English.pdf)
+- [English Report_2 (PDF)](https://github.com/CodeMaestro1/PatternTech-Suite/blob/main/Phase%202/THL311_Exercise_2_English.pdf)
 
 ## Acknowledgements
 
