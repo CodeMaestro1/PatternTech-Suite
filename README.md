@@ -21,10 +21,10 @@ Welcome to the **PatternTech Suite** project, developed as part of the course **
 
 The detailed project report is available in both Greek and English:
 
-- [Greek Report_1 (PDF)](https://github.com/CodeMaestro1/PatternTech-Suite/blob/main/Phase%201/THL311_Exercise_1.pdf)
-- [Greek Report_2 (PDF)](https://github.com/CodeMaestro1/PatternTech-Suite/blob/main/Phase%202/THL311_Exercise_2.pdf)
-- [English Report (PDF)](https://github.com/CodeMaestro1/PatternTech-Suite/blob/main/Phase%201/THL311_Exercise_1_English.pdf)
-- [English Report_2 (PDF)](https://github.com/CodeMaestro1/PatternTech-Suite/blob/main/Phase%202/THL311_Exercise_2_English.pdf)
+- [Greek Report 1 (PDF)](https://github.com/CodeMaestro1/PatternTech-Suite/blob/main/Phase%201/THL311_Exercise_1.pdf)
+- [Greek Report 2 (PDF)](https://github.com/CodeMaestro1/PatternTech-Suite/blob/main/Phase%202/THL311_Exercise_2.pdf)
+- [English Report 1 (PDF)](https://github.com/CodeMaestro1/PatternTech-Suite/blob/main/Phase%201/THL311_Exercise_1_English.pdf)
+- [English Report 2 (PDF)](https://github.com/CodeMaestro1/PatternTech-Suite/blob/main/Phase%202/THL311_Exercise_2_English.pdf)
 
 ## Acknowledgements
 
